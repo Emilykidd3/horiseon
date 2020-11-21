@@ -67,7 +67,7 @@ nav {
 /* hero end */
 
 /* applies to both sections */
-.content, .benefits {
+p {
     font-size: 16px;
 }
 
