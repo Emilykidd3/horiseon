@@ -1,5 +1,13 @@
 # Horiseon
-Horiseon is a website for the search engine optimization company. [Click here](https://emilykidd3.github.io/horiseon/) for the link to the deployed website.
+Horiseon is a website for the search engine optimization company. 
+
+## Link to deployed application
+
+[Click here](https://emilykidd3.github.io/horiseon/) for the link to the deployed website.
+
+## Screenshot of working application
+
+
 
 ## installation
 
@@ -15,4 +23,4 @@ SO THAT our own site is optimized for search engines
 
 ## contributing
 
-## How the site should look 
+
