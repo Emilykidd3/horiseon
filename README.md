@@ -1,5 +1,5 @@
 # Horiseon
-Horiseon is a website for the search engine optimization company. [Click here](insert-deployed-site.com) for the link to the deployed website.
+Horiseon is a website for the search engine optimization company. [Click here](https://emilykidd3.github.io/horiseon/) for the link to the deployed website.
 
 ## installation
 
