@@ -1,5 +1,5 @@
 # Horiseon
-Horiseon is a website for the search engine optimization company. 
+Horiseon is a website for the search engine optimization company. This website is made to be accessble and semantic. 
 
 ## Link to deployed application
 
@@ -7,7 +7,7 @@ Horiseon is a website for the search engine optimization company.
 
 ## Screenshot of working application
 
-
+<img src="https://github.com/Emilykidd3/horiseon/blob/main/assets/images/screenshot.png" width="50%" height="50%">
 
 ## installation
 
