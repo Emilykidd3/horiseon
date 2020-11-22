@@ -1,5 +1,5 @@
 # Horiseon
-Horiseon is a website for the search engine optimization company. This website is made to be accessble and semantic. 
+Horiseon is a website for the search engine optimization company. This website was updated to be accessble and semantic. 
 
 ## Link to deployed application
 
